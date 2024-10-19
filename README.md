@@ -17,9 +17,7 @@ This project is a **Python-based web crawler** that traverses websites, collects
 
 1. **Install Dependencies**:
    Use `pip` to install the necessary Python packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
+   
 
    The project requires the following libraries:
    - `requests`: For sending HTTP requests.
