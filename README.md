@@ -68,6 +68,7 @@ Crawling: https://www.guvi.in
 Crawling: https://www.guvi.in/courses
 ...
 ```
+![WebCrawler-OP](https://github.com/user-attachments/assets/70f0af9c-187f-4acd-84e9-30ceaafebad3)
 
 ### Output: 
 The program will display the list of crawled URLs and their graph structure.
@@ -79,4 +80,8 @@ The program will display the list of crawled URLs and their graph structure.
 - **Multithreading**: Implement concurrent crawling to improve the speed of large-scale crawls.
 - **Content Analysis**: Add functionality to analyze the content for specific keywords or phrases.
 - **Storage Options**: Implement saving the crawled content and graphs to a database for future reference.
+
+
+ 
+
 
